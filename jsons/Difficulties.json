@@ -5,7 +5,7 @@
 		"baseHappiness": 15,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
-		"unitCostModifier": 0.01,
+		"unitCostModifier": 0.001,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 2,
 		"buildingCostModifier": 1,
