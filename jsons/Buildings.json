@@ -2,6 +2,12 @@
     {
         "name": "Boost Units",
         "uniqueTo": "Greece",
+        "gold": 50,
+        "science": 50,
+        "faith": 50,
+        "culture": 50,
+        "production": 50,
+        "food": 50,
         "cost": 1,
         "uniques": ["New [Military] units start with [99999] Experience [in this city]",
         "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
